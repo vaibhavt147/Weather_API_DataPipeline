@@ -30,4 +30,4 @@ For Current Weather API:
 Note - Use the above pipeline and use schedular from python to run the entire process after every 5 mins
 
 How to Run?
-At the start of each day, run every_day.sh. You need to enter API key through terminal itself.
+* At the start of each day, run every_day.sh. You need to enter API key through terminal itself.
